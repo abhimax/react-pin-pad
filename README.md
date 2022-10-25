@@ -1,11 +1,11 @@
-#  Number Pad Component
+#  Pin Pad Component
 
 ## Tech Stack
 + React with hooks
 + SASS
 
 ## UI
-![EXPENSETRACKER!](readme-res/numberpad-screen-1.png)
+![EXPENSETRACKER!](readme-res/pin-pad-screen.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
